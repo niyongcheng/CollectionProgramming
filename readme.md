@@ -1,0 +1,1 @@
+#knowledge about the JAVA collection
